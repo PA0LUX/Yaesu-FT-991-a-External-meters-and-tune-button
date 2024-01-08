@@ -25,7 +25,7 @@ The following data are displayed:
 - Present power setting
 - Connection status
 
-At tune button press, it stores the present power setting and the present mode. It will then engage an FM-N transmission. 
+At tune button press, it stores the present power setting and the present mode. It will then engage an FM-N transmission. Note that this is a CAT command, the indication on the transceiver will be FM.
 When released, the tuning signal will stop. The previous power and mode setting is restored after the button has been released. The tune power can be adapted in the sketch with the variable; set_tune_pwr "PC020;" The 020 means 20W. You can change it to anything between 005 and 100. 
 
 
