@@ -6,7 +6,7 @@ See also You Tube: https://www.youtube.com/watch?v=XeM1ff3EJcw
 
 For details see the .docx
 
-Probably this will also work for a FTdx-10, but I could not test that. The display should work but I cannot check is the scaling is correct.
+Probably this will also work for a FTdx-10, but I could not test that. The display should work but I cannot check if the scaling is correct.
 This is a design of an Arduino (Nano) with a 2.8“ TFT with ILI9341 chip acting as a simultaneous (bargraph-)display of all 7 meters available in the FT-991(a). Also, a 3.2 “TFT with the same resolution (240 x 320) and ILI9341 chip will work fine. Touch is not used.
 
 It reads all meter settings from the radio via CAT, through the Rs232 connector. 
