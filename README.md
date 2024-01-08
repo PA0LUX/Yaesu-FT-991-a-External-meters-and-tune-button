@@ -2,7 +2,7 @@
 How to build an Arduino driven external meter display with a tune button for the Yaesu FT-991 (a)
 Yaesu FT-991(a) external meter display and Tune button (By PA0LUX)
 
-See also You Tube: https://youtu.be/XXXXXXXXX
+See also You Tube: https://youtu.be/XXXXXXXXX >>>>>to be uploaded
 
 For details see the .docx
 
